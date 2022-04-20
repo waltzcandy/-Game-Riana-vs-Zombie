@@ -1,6 +1,6 @@
 # -Game-Riana-vs-Zombie
 Final Project mata kuliah Logika Pemrograman
-
+![poster logprog](https://user-images.githubusercontent.com/39259006/164275007-dc97fe93-72b6-4b6d-ac70-982d4363b1b2.jpg)
 
 
 <b>PENGENALAN</b>
@@ -10,13 +10,13 @@ Pemain akan berperan sebagai riana, seorang gadis kecil yang menggunakan kostum 
 
 <b>PERSYARATAN</b>
 <p>
-  Pentium II 300 MHz or compatible
-  No less than 64 MB RAM memory
-  610 MB free hard drive space for installation
-  Windows'95/98/ME/2000/XP with DirectX 8.0 or later
-  DirectX Certified Video Card capable of supporting 800x600x16 resolution mode
-  DirectX-compatible Sound Card
-  keyboard
-  mouse
+  <p>Pentium II 300 MHz or compatible</p>
+  <p>No less than 64 MB RAM memory</p>
+  <p>610 MB free hard drive space for installation</p>
+  <p>Windows'95/98/ME/2000/XP with DirectX 8.0 or later</p>
+  <p>DirectX Certified Video Card capable of supporting 800x600x16 resolution mode</p>
+  <p>DirectX-compatible Sound Card</p>
+  <p>keyboard</p>
+  <p>mouse</p>
 </p>
 
