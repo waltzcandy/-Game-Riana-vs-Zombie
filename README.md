@@ -1,5 +1,5 @@
 # -Game-Riana-vs-Zombie
-Final Project Mata Kuliah Logika Pemrograman
+<b>Final Project Mata Kuliah Logika Pemrograman</b>
 ![poster logprog](https://user-images.githubusercontent.com/39259006/164275007-dc97fe93-72b6-4b6d-ac70-982d4363b1b2.jpg)
 
 
